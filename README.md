@@ -2,7 +2,7 @@
 
 A delightful React + Redux application built with Vite
 
-## [Vercel Live Demo]()
+## [Vercel Live Demo](https://icecream-cake-shop.vercel.app/)
 
 ## 📦 Tech Stack
 
